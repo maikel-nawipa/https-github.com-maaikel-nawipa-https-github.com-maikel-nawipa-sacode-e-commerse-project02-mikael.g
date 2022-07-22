@@ -1,0 +1,24 @@
+/* element selectors*/
+body{
+    background-color: #1abc9c;
+}
+
+/* class selectors */
+.container{
+    margin-right: auto;
+    margin-left: auto;
+    width: 500px;
+
+}
+
+.card{
+    background-color: #fff;
+    padding: 20px;
+    margin-top: 100px;
+    border-radius: 100px;
+    box-shadow: #333 5px 5px 15px;
+
+
+}
+
+/* id selectors */
