@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:'poppins', sans-serif;
+    box-sizing: border-box;
+
+}
+
+.container{
+    width: 100%;
+    margin-block-start: 2in;
+    height: 100%var(#12066d);
+    background: #5edb0a;
+    background:rgb(255, 255, 255);
+    display: flex;
+    align-items: center;
+    justify-content: center;   
+}
+.profile{
+    width: 90%;
+    font-variant: small-caps;
+    writing-mode: horizontal-tb;
+    height: 40ch;
+    max-width: 230px;
+    background: #28074a;
+    text-align: center;
+    padding: 30px 20px;
+    box-shadow: 0 10px 40px rgba(2, 2, 2, 2);
+    border-radius: 30px;
+    color: rgba(255, 255, 255, 0.863);
+}
+.top-icons{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 300;
+}
+.fa-heart{
+    margin-right: 20px;
+}
+.unser-imf{
+    width: 300px;
+    border-radius: 300%;
+}
+.profile h2{
+    font-weight: 500%;
+    font-size: 22px;
+    margin-top: 10px;
+}
+.profile p{
+    font-size: 11px;
+}
+.btn{
+    text-decoration: none;
+    color: rgb(158, 35, 207);
+    padding: 80px 60px;
+    border-radius: 60px;
+    background: linear-gradient( margin-right#8d68c5,#e34494);
+    margin: 40px 0;
+    font-size: 18px;
+}
+.social-media{
+    display: flex;
+    justify-content: space-around;
+
+}
+.social-media img{
+    width: 30px;
+    border-radius: 30%;
+}
+.social-media h3{
+    font-weight: 300;
+    font-size: 300px;
+}
